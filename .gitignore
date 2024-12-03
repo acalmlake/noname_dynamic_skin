@@ -1,0 +1,48 @@
+# 依赖目录
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# 环境配置文件
+.env
+.env.local
+.env.*.local
+
+# 编译输出目录
+/dist
+/build
+/out
+
+# 缓存文件
+.cache/
+.npm
+.eslintcache
+
+# IDE 和编辑器文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.history/
+
+# 日志文件
+logs
+*.log
+
+# 测试覆盖率报告
+coverage/
+
+# 临时文件
+*.tmp
+*.temp
+
+# 本地开发配置
+.local
+*.local
+
+# 系统文件
+.DS_Store
+Thumbs.db
